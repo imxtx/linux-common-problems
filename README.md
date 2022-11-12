@@ -4,7 +4,7 @@
 
 ## 系统启动相关问题
 
-- 如何在Linux上制作Windows启动U盘（推荐方法二使用Ventoy）：<https://itsfoss.com/bootable-windows-usb-linux/>
+- [如何在Linux上制作Windows启动U盘（推荐方法二使用Ventoy）](https://itsfoss.com/bootable-windows-usb-linux/)
 
 ## 驱动相关问题
 
